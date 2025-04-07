@@ -2,8 +2,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family:Arial, Helvetica, sans-serif;
 }
 
 body {
-  background: linear-gradient(black, lightblue);
+  color: white;
+  background: linear-gradient(to bottom right, hsl(241, 88%, 44%), hsl(145, 60%, 52%));
+  background-repeat: none;
+  height: 100vh;
 }
