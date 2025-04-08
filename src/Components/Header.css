@@ -1,0 +1,23 @@
+.header {
+  border: 1px solid black;
+  display: flex;
+}
+
+.header h1 {
+  font-size: 5rem;
+}
+
+.header nav {
+  display: flex;
+  align-items: center;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+} 
+
+.header li {
+  border: solid 1px black;
+}
