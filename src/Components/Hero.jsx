@@ -15,6 +15,11 @@ function Hero() {
           but my GitHub is pretty active from all my commits showing on the graph squares. If you visit my GitHub you can see.
         </p>  
       </div>
+      <div>
+        <p className="sideText">
+        &lt;CODER&gt;
+        </p>
+      </div>
     </div>
   );
 }

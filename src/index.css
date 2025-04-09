@@ -4,14 +4,13 @@
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1rem;
+  /* outline: 1px solid greenyellow; */
+  
 }
 
-body {
-  height: 100vh;
-  color: white;
-  background: linear-gradient(to bottom right, black);
-  background-repeat: none;
-
+body, html{
+  height: 100%;
 }
+
  
 
