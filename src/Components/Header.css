@@ -21,6 +21,7 @@
 .header nav {
   display: flex;
   justify-content: center;
+  margin-right: 100px;
 }
 
 .header ul {
