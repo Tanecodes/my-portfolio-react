@@ -1,15 +1,16 @@
 import React from "react";
+import "./Projects.css";
 
 function Projects() {
   return (
-    <section className="projects">
+    <div className="projects"id="projects">
       <h2>Projects</h2>
       <ul>
         <li>Project 1</li>
         <li>Project 2</li>
         <li>Project 3</li>
       </ul>
-    </section>
+    </div>
   );
 }
 

@@ -3,14 +3,14 @@ import './Header.css';
 
 function Header() {
   return (
-    <header className="header">
+    <header className="header" id="home">
       <h1>MY PORTFOLIO.</h1>
       <nav>
         <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Projects</li>
-          <li>Contact</li>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
     </header>
