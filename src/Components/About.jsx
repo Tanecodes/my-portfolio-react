@@ -14,7 +14,7 @@ function About() {
           I first learned to code through the Odin Project and once i got familiar with the basics i kinda
           just went my own route from then on. Eventually i will teach myself fullstack development but until
           then front end will keep me occupied for now. I still have alot to learn no doubt but i'm making
-          good progress and staying consistant which is the main goal for now. My dream is to one day become a Dev 
+          good progress and staying consistant which is the main goal. My dream is to one day become a Dev 
           and code for a living.
         </p>
       </div>

@@ -4,7 +4,7 @@ import "./Projects.css";
 function Projects() {
   return (
     <div className="projects"id="projects">
-      <h2>Projects</h2>
+      <h2>&lt; <span>PROJECTS</span> &gt;</h2>
       <ul>
         <li>Project 1</li>
         <li>Project 2</li>
