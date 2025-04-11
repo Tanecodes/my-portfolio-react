@@ -6,9 +6,13 @@ function Projects() {
     <div className="projects"id="projects">
       <h2>&lt; <span>PROJECTS</span> &gt;</h2>
       <ul>
-        <li>Project 1</li>
-        <li>Project 2</li>
-        <li>Project 3</li>
+        <li>Main projects</li>
+        <li>Vanilla projects</li>
+        <li>React projects</li>
+        <li>Animations</li>
+        <li>Templates</li>
+        <li>Beginner projects</li>
+        <li>Clones</li>
       </ul>
     </div>
   );

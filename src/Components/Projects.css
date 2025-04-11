@@ -3,6 +3,8 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  gap: 20px;
+  height: 150px;
   margin: 10px;
   padding: 0px 10px;
   padding-bottom: 20px;
@@ -12,12 +14,13 @@
 }
 
 .projects h2 {
-  
+  display: flex;
   font-style: italic;
   font-size: 3.5rem;
 }
 
 .projects span {
+  display: inline-block;
   font-family: "goldman",sans-serif;
   font-size: 3.5rem;
 }
@@ -26,11 +29,20 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 10px;
   width: 100%;
   gap: 3em;
   list-style: none;
 }
 
 .projects li {
-  
+  font-size: 1.5rem;
+  user-select: none;
+  line-height: 1.2;
+  cursor: pointer;
+}
+
+.projects li:hover {
+  border-top: 3px solid rgb(111, 0, 255);
+  border-bottom: 3px solid rgb(111, 0, 255);
 }
